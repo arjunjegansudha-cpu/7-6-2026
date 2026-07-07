@@ -1,0 +1,13 @@
+tuple1=(1,2,'a','b')
+print(tuple1)
+tuple2=(4,2,6,9,3,7)
+print(tuple2)
+tuple3=tuple2+tuple1
+print(tuple3)
+tuple4=(2,4,2,5,2)
+print(tuple4.count(2))
+tuple5=(1,5,6,7,3,2,9)
+tuple6=tuple5[2:5]
+print(tuple6)
+tuple7=tuple5[:5]
+print(tuple7)
